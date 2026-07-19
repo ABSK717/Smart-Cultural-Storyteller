@@ -1,0 +1,49 @@
+# Core ML & Transformers
+torch
+torchvision
+torchaudio
+transformers
+accelerate
+sentence-transformers
+diffusers[torch]
+safetensors
+bitsandbytes
+
+# Whisper for speech-to-text
+openai-whisper
+SpeechRecognition
+
+# Text-to-Speech (TTS)
+gTTS
+edge-tts
+
+# Translation & Language Detection
+deep-translator
+langdetect
+
+# Vector Search & FAISS
+faiss-cpu
+
+# Audio & Video Processing
+pydub
+moviepy
+ffmpeg-python
+
+# Captions & Subtitles
+pysrt
+
+# Web Search & Content Parsing
+wikipedia
+beautifulsoup4
+
+# Report Generation & PDFs
+reportlab
+
+# Gradio for Web UI
+gradio
+
+# Other Utilities
+numpy
+pandas
+requests
+Pillow
