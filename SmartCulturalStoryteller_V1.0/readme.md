@@ -57,7 +57,7 @@ Future versions will focus on modular architecture, improved performance, and de
 
 The complete workflow is illustrated below.
 <p align="center">
-<img src="report_docs\Pipeline_workflow_diagram.png" width="800" alt="workflow Diagram">
+<img src="report_docs\pipeline_workflow_diagram.png" width="800" alt="workflow Diagram">
 </p>
 
 ## 🚀 How It Works
